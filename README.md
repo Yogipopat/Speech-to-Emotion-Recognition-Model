@@ -69,10 +69,6 @@ The accuracy of the model on the test set is printed during the training process
 
 - Yogita Popat
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - RAVDESS dataset: [link](https://zenodo.org/record/1188976#.Yb_6j4gzbIU)
